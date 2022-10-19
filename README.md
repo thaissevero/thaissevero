@@ -1,8 +1,7 @@
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="700"/>
 <img align='right' src="https://i.pinimg.com/originals/15/26/5a/15265af91d058d33da9d448a7cd070f9.gif" width="300"/>
 
-# <div> <img src="http://pa1.narvii.com/6886/4a5e9c3273dd36a5bba408ce3b4b7ffca11135b8r1-297-320_00.gif" width="150"/> 🌷 Hi there 🌷 <img height="70" src="https://i.pinimg.com/originals/3b/3f/54/3b3f54973e3785f8dc0018ddbec9f5fe.gif"/> </div>
-
+# <div> <img src="https://i.pinimg.com/originals/9d/d1/a0/9dd1a0c90caa865e3718947e2b91d35e.gif" width="150"/> 🌷 Hi there 🌷 </div>
 ```javascript
 * 🌱 Pronouns: she/her.
 * 🍃 I’m currently studying at Generation Brasil to become a Full Stack Java Developer. 
