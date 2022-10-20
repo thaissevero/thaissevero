@@ -1,8 +1,8 @@
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="700"/>
-<img align='right' src="https://i.pinimg.com/originals/15/26/5a/15265af91d058d33da9d448a7cd070f9.gif" width="300"/>
+<img align='right' src="https://i.pinimg.com/originals/15/26/5a/15265af91d058d33da9d448a7cd070f9.gif" width="260"/>
 
 
-<h2><img src="https://i.pinimg.com/originals/9d/d1/a0/9dd1a0c90caa865e3718947e2b91d35e.gif" width="150"/> 🌷 Hi there! my name is Thais! 🌷 <img src="https://66.media.tumblr.com/15924a6484e81c67167bc04287917ba9/tumblr_mfoibvy2v41rfjowdo1_500.gif" width="180"></h2>
+<h1><img src="https://i.pinimg.com/originals/9d/d1/a0/9dd1a0c90caa865e3718947e2b91d35e.gif" width="150"/> 🌷 Hi there! 🌷 <img src="https://66.media.tumblr.com/15924a6484e81c67167bc04287917ba9/tumblr_mfoibvy2v41rfjowdo1_500.gif" width="170"></h1>
 
 
 ```javascript
