@@ -36,6 +36,6 @@
 <img align='right' src="https://66.media.tumblr.com/tumblr_ma9e5cpbY11rfjowdo1_500.gif" width="400" />
 </div> 
 
-## Social Midias
+## Social network
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thais-severo)        
 
