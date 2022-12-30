@@ -7,8 +7,8 @@
 
 ```javascript
 🌻 My name is Thais Severo!
-🌱 Pronouns: she/her.
-🍃 I’m Java Web Developer from Generation Brasil. 
+🌱 I live in Brazil.
+🍃 I’m Java Web Developer. 
 🌼 I love games, animes, arts and technology.
 🌾 Portuguese and English.
 ```
