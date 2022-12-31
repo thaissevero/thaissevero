@@ -10,7 +10,6 @@
 🌱 I live in Brazil.
 🍃 I’m Java Web Developer. 
 🌼 I love games, animes, arts and technology.
-🌾 Portuguese and English.
 ```
 
 ## Github Stats
@@ -21,7 +20,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaissevero&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div> 
 
-## Languages and Tools
+## My knowledge
 <div>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/> 
