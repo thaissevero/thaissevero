@@ -35,7 +35,7 @@
 <img align='right' src="https://66.media.tumblr.com/tumblr_ma9e5cpbY11rfjowdo1_500.gif" width="400" />
 </div> 
 
-## Social network
+## Social
 <a href="https://www.linkedin.com/in/thais-severo"> 
           <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
 
