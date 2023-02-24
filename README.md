@@ -8,7 +8,7 @@
 ```javascript
 🌻 My name is Thais Severo!
 🌱 I live in Brazil.
-🍃 I’m Java Web Developer. 
+🍃 I’m Java Web Developer | Full Stack.
 🌼 I love games, animes, arts and technology.
 ```
 
