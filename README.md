@@ -36,8 +36,8 @@
 </div> 
 
 ## Social
-<a href="https://www.linkedin.com/in/thais-severo"> 
+<a href="https://www.linkedin.com/in/thais-severo" target="_blank"> 
           <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
 <a href="mailto:thais.severo21@gmail.com">
-          <img width="56" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" target="_blank"></a>
+          <img width="56" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" /a>
 
