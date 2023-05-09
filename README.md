@@ -6,9 +6,9 @@
 
 
 ```javascript
-🌻 My name is Thais Severo!
+🌻 My name is Thais!
 🌱 I live in Brazil.
-🍃 I’m Java Web Developer | Full Stack.
+🍃 I’m Web Developer.
 🌼 I love games, animes, arts and technology.
 ```
 
